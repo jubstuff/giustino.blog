@@ -1,0 +1,23 @@
+{
+  "name": "adamsilver.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf _site",
+    "local": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --env=local --config=node_modules/laravel-mix/setup/webpack.config.js && ELEVENTY_ENV=development eleventy --serve",
+    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --hide-modules --env=production --config=node_modules/laravel-mix/setup/webpack.config.js && ELEVENTY_ENV=production eleventy",
+    "dev": "npm run local"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "cross-env": "^7.0.2",
+    "laravel-mix": "^5.0.4",
+    "postcss-import": "^12.0.1",
+    "tailwindcss": "^1.6.2"
+  },
+  "dependencies": {}
+}
