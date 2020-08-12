@@ -4,7 +4,7 @@ author: Giustino Borzacchiello
 type: post
 date: 2011-04-05T13:41:59+00:00
 draft: true
-permalink: /?p=536
+
 categories:
   - Thoughts
 

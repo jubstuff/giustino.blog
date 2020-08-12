@@ -4,7 +4,7 @@ author: Giustino Borzacchiello
 type: post
 date: 2019-07-14T18:32:22+00:00
 draft: true
-permalink: /?p=2262
+
 classic-editor-remember:
   - block-editor
 categories:

@@ -4,7 +4,7 @@ author: Giustino Borzacchiello
 type: post
 date: 2012-07-12T16:57:16+00:00
 draft: true
-permalink: /?p=713
+
 dsq_thread_id:
   - 762310281
 categories:

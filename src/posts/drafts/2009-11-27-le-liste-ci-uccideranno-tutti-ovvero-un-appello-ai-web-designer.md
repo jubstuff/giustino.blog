@@ -4,7 +4,7 @@ author: Giustino Borzacchiello
 type: post
 date: 2009-11-27T09:00:22+00:00
 draft: true
-permalink: /?p=330
+
 image:
   - original.png
 series:

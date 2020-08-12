@@ -4,7 +4,7 @@ author: Giustino Borzacchiello
 type: post
 date: 2011-10-11T18:23:23+00:00
 draft: true
-permalink: /?p=542
+
 categories:
   - C
 

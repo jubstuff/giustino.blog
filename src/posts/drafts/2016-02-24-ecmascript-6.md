@@ -3,7 +3,7 @@ title: Ecmascript 6
 author: Giustino Borzacchiello
 type: post
 draft: true
-permalink: /?p=1369
+
 categories:
   - Thoughts
 
