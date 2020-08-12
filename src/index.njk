@@ -2,4 +2,19 @@
 layout: base.njk
 ---
 
-<h1 class="text-3xl font-bold text-blue-800">Welcome to my site</h1>
+<h2>Me in 10 seconds</h2>
+
+<p class="lead">I'm a former Software Engineer turned UX Designer and Entrepreneur at <a href="https://donux.com">Donux</a></p>
+
+<h2>Articles</h2>
+
+{%- set postslist = collections.posts | reverse -%}
+
+{%- for post in postslist.slice(0,5) -%}
+    <h3>
+        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+    </h3>
+    <p class="articleList-date text-gray-800">
+        <time date-time="{{ post.date }}">{{ post.date | readableDate }}</time>
+    </p>
+{%- endfor -%}

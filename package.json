@@ -14,7 +14,11 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy-plugin-rss": "^1.0.9",
+    "@quasibit/eleventy-plugin-sitemap": "^2.0.0",
+    "@tailwindcss/typography": "^0.2.0",
     "cross-env": "^7.0.2",
+    "dayjs": "^1.8.33",
     "laravel-mix": "^5.0.4",
     "postcss-import": "^12.0.1",
     "tailwindcss": "^1.6.2"
