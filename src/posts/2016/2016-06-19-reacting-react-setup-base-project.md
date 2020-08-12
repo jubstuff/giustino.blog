@@ -129,66 +129,66 @@ Then, add these lines in the `.babelrc` file created before:
 ## HTML
 
 We will use a simple HTML page as our playground:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>A simple Counter in React</title>
+    <link rel="stylesheet" href="css/pure-min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+</head>
+<body>
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>A simple Counter in React</title>
-        <link rel="stylesheet" href="css/pure-min.css">
-        <link rel="stylesheet" href="css/main.css">
-        <meta name="viewport"
-              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    </head>
-    <body>
-    
-    <div class="main">
-        <h1>A simple counter</h1>
-        <div id="mountpoint"></div>
-    </div>
-    
-    <script src="lib/react-15.1.0.js"></script>
-    <script src="lib/react-dom-15.1.0.js"></script>
-    <script src="dist/app.js"></script>
-    </body>
-    </html>
-    
+<div class="main">
+    <h1>A simple counter</h1>
+    <div id="mountpoint"></div>
+</div>
+
+<script src="lib/react-15.1.0.js"></script>
+<script src="lib/react-dom-15.1.0.js"></script>
+<script src="dist/app.js"></script>
+</body>
+</html>
+```    
 
 ## Example in React
 
 We&#8217;ve nearly made it! We _just_ need to code our first React component.
+```jsx
+"use strict";
 
-    "use strict";
-    
-    var Counter = React.createClass( {
-      getInitialState: function () {
-        return {
-          counter: 0
-        }
-      },
-      increment: function () {
-        this.setState( {
-          counter: this.state.counter + 1
-        } );
-      },
-      decrement: function () {
-        this.setState( {
-          counter: this.state.counter - 1
-        } );
-      },
-      render: function () {
-        return (
-          <div>
-            <h2>{this.state.counter}</h2>
-            <button className="pure-button button-error" onClick={this.decrement}>Decrement</button>
-            <button className="pure-button button-success" onClick={this.increment}>Increment</button>
-          </div>
-        );
-      }
+var Counter = React.createClass( {
+  getInitialState: function () {
+    return {
+      counter: 0
+    }
+  },
+  increment: function () {
+    this.setState( {
+      counter: this.state.counter + 1
     } );
-    
-    ReactDOM.render( <Counter />, document.getElementById( 'mountpoint' ) );
-    
+  },
+  decrement: function () {
+    this.setState( {
+      counter: this.state.counter - 1
+    } );
+  },
+  render: function () {
+    return (
+      <div>
+        <h2>{this.state.counter}</h2>
+        <button className="pure-button button-error" onClick={this.decrement}>Decrement</button>
+        <button className="pure-button button-success" onClick={this.increment}>Increment</button>
+      </div>
+    );
+  }
+} );
+
+ReactDOM.render( <Counter />, document.getElementById( 'mountpoint' ) );
+```
 
 It&#8217;s a simple counter: we have a display and two buttons: one used to decrement the count, one to increment it.
 

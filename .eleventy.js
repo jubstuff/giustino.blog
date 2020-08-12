@@ -1,10 +1,11 @@
 const dayjs = require("dayjs");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const sitemap = require("@quasibit/eleventy-plugin-sitemap");
+const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
-
+  eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(sitemap, {
     sitemap: {
       hostname: "https://giustino.blog",
@@ -20,7 +21,7 @@ module.exports = function(eleventyConfig) {
   const livePosts = (p) => p.date <= now && !p.data.draft;
 
   eleventyConfig.addCollection("posts", (collection) => {
-    return collection.getFilteredByGlob("./src/posts/*.md").filter(livePosts);
+    return collection.getFilteredByGlob("./src/posts/20*/*.md").filter(livePosts);
   });
 
   // source folder as key, destination folder as value
