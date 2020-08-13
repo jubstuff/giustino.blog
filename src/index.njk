@@ -4,10 +4,11 @@ layout: base.njk
 
 <h2>Me in 10 seconds</h2>
 
-<p class="lead">I'm a former Software Engineer turned UX Designer and Entrepreneur at <a href="https://donux.com">Donux</a></p>
+<p class="lead">I'm a former Software Engineer turned UX Designer and Entrepreneur at <a href="https://donux.com">Donux</a>
+</p>
 
-<h2>Articles</h2>
-
+    <h2 class="inline-block">Recent Articles</h2>
+    <a class="ml-8 text-lg" href="/blog/">See all</a>
 {%- set postslist = collections.posts | reverse -%}
 
 {%- for post in postslist.slice(0,5) -%}

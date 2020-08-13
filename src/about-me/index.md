@@ -3,6 +3,7 @@ title: About me
 author: Giustino Borzacchiello
 type: page
 date: 2015-02-01T17:43:34+00:00
+layout: base.njk
 classic-editor-remember:
   - block-editor
 
@@ -11,7 +12,9 @@ classic-editor-remember:
   <figure class="alignleft"><img src="https://i1.wp.com/giustino.blog/wp-content/uploads/2015/02/me-150x150.jpeg?resize=150%2C150" alt="Giustino Borzacchiello" class="wp-image-1084" srcset="https://i2.wp.com/giustino.blog/wp-content/uploads/2015/02/me.jpeg?resize=150%2C150&ssl=1 150w, https://i2.wp.com/giustino.blog/wp-content/uploads/2015/02/me.jpeg?resize=300%2C300&ssl=1 300w, https://i2.wp.com/giustino.blog/wp-content/uploads/2015/02/me.jpeg?w=400&ssl=1 400w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" /><figcaption>That&#8217;s me!</figcaption></figure>
 </div>
 
-Hello, I&#8217;m Giustino Borzacchiello. I am a <s>PHP developer</s> Team Leader and I live in <del>Naples</del> Milan. In this blog, I write about the things I learn, mainly about <s>[WordPress][1]</s>, PHP, JavaScript and Software Engineering in general. 
+Hello, I&#8217;m Giustino Borzacchiello. I am a <s>PHP developer</s> <s>Team Leader</s> <s>Engineering Manager</s> Entrepreneur and I live in <del>Naples</del> <s>Milan</s> Monza. 
+
+In this blog, I write about the things I learn, mainly about <s>[WordPress][1], PHP, JavaScript</s>, Indie Making, Product Design, Entrepreneurship, Software Engineering in general. 
 
 Follow me on [Twitter][2] to know what I&#8217;m up to!
 
@@ -57,7 +60,7 @@ WordPress Meetup Milano, May 2015<figure class="wp-block-embed-speaker-deck wp-b
 
 ## About this site
 
-This site runs on WordPress and is hosted by [Siteground][9].
+This site runs on <s>WordPress</s> Eleventy and is hosted by <s>[Siteground][9]</s> [Netlify][11].
 
 The cover image for the &#8220;Weekly News Roundup&#8221; is by [Miguel Saavedra][10]
 
@@ -71,3 +74,4 @@ The cover image for the &#8220;Weekly News Roundup&#8221; is by [Miguel Saavedra
  [8]: https://speakerdeck.com/justb/10-useful-wordpress-functions-and-maybe-more
  [9]: https://siteground.com
  [10]: http://www.freeimages.com/photo/1400143
+ [11]: https://www.netlify.com/
