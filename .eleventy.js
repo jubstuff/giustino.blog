@@ -16,6 +16,19 @@ module.exports = function(eleventyConfig) {
     return dayjs(dateObj).format("YYYY-MM-DD");
   });
 
+  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+    if (outputPath && outputPath.endsWith(".html")) {
+      let minified = htmlmin.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true
+      });
+      return minified;
+    }
+
+    return content;
+  });
+
   const now = new Date();
 
   const livePosts = (p) => p.date <= now && !p.data.draft;
