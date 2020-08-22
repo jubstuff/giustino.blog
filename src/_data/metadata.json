@@ -1,5 +1,10 @@
 {
-    "url": "https://giustino.blog",
-    "tagManagerId": "GTM-KRLNDJ9",
-    "siteTitle": "Giustino Borzacchiello"
+  "url": "https://giustino.blog",
+  "tagManagerId": "GTM-KRLNDJ9",
+  "title": "Giustino Borzacchiello",
+  "description": "Giustino Borzacchiello is a developer, designer and Indie Hacker based in Italy",
+  "author": {
+      "name": "Giustino Borzacchiello",
+      "email": "giustinob@gmail.com"
+  }
 }
