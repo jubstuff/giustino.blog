@@ -9,13 +9,17 @@
         <title>{{ title or metadata.title }}</title>
         <link rel="stylesheet" href="/css/main.css">
         <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
+        <link rel="alternate" type="application/rss+xml" title="giustino.blog &raquo; Feed" href="{{ metadata.url }}/feed.xml" />
+        <link rel="icon" type="image/png" href="/img/icons/favicon-16.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="/img/icons/favicon-32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="/img/icons/favicon-96.png" sizes="96x96">
 
     </head>
     <body class="max-w-3xl mx-auto px-8 pt-8 pb-20">
         {%- if eleventy.production -%}
             {% include "_tagmanager-body.njk" %}
         {%- endif -%}
-        
+
         <div class="prose prose-sm sm:prose lg:prose-lg xl:prose-2xl mx-auto">
             <h1>
                 <a href="/">Giustino Borzacchiello</a>
