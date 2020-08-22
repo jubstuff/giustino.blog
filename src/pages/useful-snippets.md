@@ -1,6 +1,7 @@
 ---
 title: Useful snippets
 author: Giustino Borzacchiello
+permalink: /useful-snippets/
 type: page
 date: 2016-01-21T06:31:45+00:00
 

@@ -3,6 +3,7 @@ title: Speaking
 author: Giustino Borzacchiello
 type: page
 date: 2016-01-13T22:26:08+00:00
+permalink: /speaking/
 draft: true
 classic-editor-remember:
   - block-editor

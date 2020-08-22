@@ -3,6 +3,7 @@ title: 'WordPress & Me'
 author: Giustino Borzacchiello
 type: page
 date: 2019-07-21T12:31:57+00:00
+permalink: /wordpress-me/
 classic-editor-remember:
   - block-editor
 

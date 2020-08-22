@@ -3,6 +3,7 @@ title: Privacy Policy
 author: Giustino Borzacchiello
 type: page
 date: 2018-05-20T12:28:16+00:00
+permalink: /privacy-policy/
 classic-editor-remember:
   - classic-editor
 

@@ -3,6 +3,7 @@ title: About me
 author: Giustino Borzacchiello
 type: page
 date: 2015-02-01T17:43:34+00:00
+permalink: /about-me/
 layout: base.njk
 classic-editor-remember:
   - block-editor
