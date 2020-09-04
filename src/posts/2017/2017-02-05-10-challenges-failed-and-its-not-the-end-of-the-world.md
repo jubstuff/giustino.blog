@@ -3,6 +3,7 @@ title: 10 challenges I’ve failed, and it’s not the end of the world
 author: Giustino Borzacchiello
 type: post
 date: 2017-02-05T20:41:33+00:00
+featured: true
 excerpt: '“Why do we fall? So we can learn to pick ourselves up.” - Alfred '
 permalink: /10-challenges-failed-and-its-not-the-end-of-the-world/
 featured_image: /wp-content/uploads/2017/02/blog-insights-giustino-blog.png

@@ -4,13 +4,8 @@ author: Giustino Borzacchiello
 type: post
 date: 2009-11-09T13:17:26+00:00
 permalink: /chroma-hash/
-syntaxhighlighter_encoded:
-  - 1
-featured:
-  - 1
 categories:
   - Pensieri
-
   - jQuery
   - pensieri
   - UX

@@ -38,6 +38,12 @@ module.exports = function(eleventyConfig) {
     return collection.getFilteredByGlob("./src/posts/20*/*.md").filter(livePosts);
   });
 
+  eleventyConfig.addCollection('featured', (collection) => {
+    return collection.getFilteredByGlob("./src/posts/20*/*.md")
+      .filter(livePosts)
+      .filter(item => !!item.data.featured);
+  });
+
   // source folder as key, destination folder as value
   // I've also optimized the methods call, putting all in one object
   eleventyConfig.addPassthroughCopy({

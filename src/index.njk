@@ -10,7 +10,7 @@ layout: base.njk
 
     <h2 class="inline-block">Recent Articles</h2>
     <a class="ml-8 text-lg" href="/blog/">See all</a>
-{%- set postslist = collections.posts | reverse -%}
+{%- set postslist = collections.featured | reverse -%}
 
 {%- for post in postslist.slice(0,5) -%}
     <h3>

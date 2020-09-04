@@ -1,6 +1,7 @@
 ---
 title: How to excel as a developer, designer, marketer (or anything else)
 author: Giustino Borzacchiello
+featured: true
 type: post
 date: 2019-01-27T14:38:37+00:00
 permalink: /how-to-excel-as-a-developer/

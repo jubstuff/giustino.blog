@@ -4,6 +4,7 @@ author: Giustino Borzacchiello
 type: post
 date: 2018-08-21T19:47:13+00:00
 permalink: /your-improvement-is-your-responsibility/
+featured: true
 featured_image: /wp-content/uploads/2018/08/hn_4k2diuws-1200x800.jpg
 categories:
   - Dev Life

@@ -4,8 +4,6 @@ author: Giustino Borzacchiello
 type: post
 date: 2009-11-12T00:19:36+00:00
 permalink: /collegamenti/
-featured:
-  - 1
 dsq_thread_id:
   - 762372142
 categories:

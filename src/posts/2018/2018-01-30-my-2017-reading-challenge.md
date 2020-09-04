@@ -3,6 +3,7 @@ title: My 2017 reading challenge
 author: Giustino Borzacchiello
 type: post
 date: 2018-01-30T21:21:39+00:00
+featured: true
 permalink: /my-2017-reading-challenge/
 featured_image: /wp-content/uploads/2016/11/book-candle-tailpiece-1200-1200x708.jpg
 categories:
