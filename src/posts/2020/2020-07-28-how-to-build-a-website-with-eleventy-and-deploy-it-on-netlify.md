@@ -16,7 +16,7 @@ categories:
   </p>
   
   <p>
-    <a href="https://www.11ty.dev/">Eleventy</a> is a new static site generator that you can use to build a website and host it on <a href="https://www.netlify.com/">Netlify</a>.
+    <a href="https://www.11ty.dev/">Eleventy</a> is a new static site generator that you can use to build a website and host it on <a href="https://www.netlify.com/">Netlify</a>. The great thing about 11ty (as it's also called) is that it's very lightweight and doesn't impose you anything. You can decide your folder structure, libraries, and way of doing things.
   </p>
   
   <p>
