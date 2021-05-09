@@ -20,6 +20,8 @@ Then we'll create a collection for all published posts, and use that to print a 
 I'm assuming that you have your posts in the `src/posts` folder and a `.eleventy.js` file for your configuration. Open it and add this code:
 
 ```js
+  const now = new Date();
+
   const publishedPosts = (post) => post.date <= now && !post.data.draft; // [1]
 
   eleventyConfig.addCollection("posts", (collection) => { // [2]
