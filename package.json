@@ -13,17 +13,18 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-plugin-rss": "^1.0.9",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
     "@quasibit/eleventy-plugin-sitemap": "^2.0.0",
     "@tailwindcss/typography": "^0.2.0",
+    "autoprefixer": "^10.4.13",
     "cross-env": "^7.0.2",
     "dayjs": "^1.8.33",
     "html-minifier": "^4.0.0",
     "laravel-mix": "^5.0.4",
+    "postcss": "^8.4.18",
     "postcss-import": "^12.0.1",
-    "tailwindcss": "^1.6.2"
-  },
-  "dependencies": {}
+    "tailwindcss": "^3.2.2"
+  }
 }
