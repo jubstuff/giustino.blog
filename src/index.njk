@@ -8,10 +8,28 @@ layout: base.njk
 <p>I like to do many things at once.</p>
 
 <h2>Me in 1 minute</h2>
-<p>Read more in the <a href="/about-me/">about page</a></p>
+<p>Read more in the <a href="/about-me/">about page</a>
+</p>
 
-    <h2 class="inline-block">Best Articles</h2>
-    <a class="ml-8 text-lg" href="/blog/">See all</a>
+<h2>What am I doing now?</h2>
+<p>Read more in <a href="/now/">my now page</a>
+</p>
+
+<h2 class="inline-block">Newest Articles</h2>
+<a class="ml-8 text-lg" href="/blog/">See all</a>
+{%- set postslist = collections.posts | reverse -%}
+
+{%- for post in postslist.slice(0,5) -%}
+    <h3>
+        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+    </h3>
+    <p class="articleList-date text-gray-800">
+        <time date-time="{{ post.date }}">{{ post.date | readableDate }}</time>
+    </p>
+{%- endfor -%}
+
+<h2 class="inline-block">Best Articles</h2>
+<a class="ml-8 text-lg" href="/blog/">See all</a>
 {%- set postslist = collections.featured | reverse -%}
 
 {%- for post in postslist.slice(0,5) -%}
