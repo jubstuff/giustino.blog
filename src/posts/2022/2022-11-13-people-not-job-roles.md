@@ -1,7 +1,7 @@
 ---
 title: People do things, not job roles
 type: post
-date: Last Modified
+date: 2022-11-13
 permalink: /people-vs-job-roles/
 ---
 
