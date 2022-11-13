@@ -17,7 +17,7 @@ Frameworks are well and good, but sometimes they shield us from simple concepts 
 
 I was handed a really simple task: I had to create two entities (Store and Brand). A Store could have had many brands attached, so it was a simple [many-to-many relationship][1], with a [junction table][2]. Something like:
 
-<figure id="attachment_945" aria-describedby="caption-attachment-945" style="width: 546px" class="wp-caption aligncenter">[<img src="https://i1.wp.com/giustino.blog/wp-content/uploads/2015/02/stores_and_brands.png?resize=546%2C115" alt="Stores and brands database" width="546" height="115" class="size-full wp-image-945" srcset="https://i1.wp.com/giustino.blog/wp-content/uploads/2015/02/stores_and_brands.png?w=546&ssl=1 546w, https://i1.wp.com/giustino.blog/wp-content/uploads/2015/02/stores_and_brands.png?resize=300%2C63&ssl=1 300w" sizes="(max-width: 546px) 100vw, 546px" data-recalc-dims="1" />][3]<figcaption id="caption-attachment-945" class="wp-caption-text">Stores and brands database</figcaption></figure>
+<figure id="attachment_945" aria-describedby="caption-attachment-945" style="width: 546px" class="wp-caption aligncenter">[<img src="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2015/02/stores_and_brands.png?resize=546%2C115" alt="Stores and brands database" width="546" height="115" class="size-full wp-image-945" srcset="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2015/02/stores_and_brands.png?w=546&ssl=1 546w, https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2015/02/stores_and_brands.png?resize=300%2C63&ssl=1 300w" sizes="(max-width: 546px) 100vw, 546px" data-recalc-dims="1" />][3]<figcaption id="caption-attachment-945" class="wp-caption-text">Stores and brands database</figcaption></figure>
 
 <pre><code class="sql">create table stores(
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
@@ -85,5 +85,5 @@ _<small>Cover image by <a href="http://www.flickr.com/photos/clearlyambiguous/11
 
  [1]: http://en.wikipedia.org/wiki/Many-to-many_%28data_model%29
  [2]: http://en.wikipedia.org/wiki/Junction_table
- [3]: https://i1.wp.com/giustino.blog/wp-content/uploads/2015/02/stores_and_brands.png
+ [3]: https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2015/02/stores_and_brands.png
  [4]: http://dev.mysql.com/doc/refman/5.5/en/insert.html

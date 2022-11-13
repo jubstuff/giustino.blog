@@ -10,10 +10,10 @@ classic-editor-remember:
 
 ---
 <div class="wp-block-image wp-image-1084 size-thumbnail">
-  <figure class="alignleft"><img src="https://i1.wp.com/giustino.blog/wp-content/uploads/2015/02/me-150x150.jpeg?resize=150%2C150" alt="Giustino Borzacchiello" class="wp-image-1084" srcset="https://i2.wp.com/giustino.blog/wp-content/uploads/2015/02/me.jpeg?resize=150%2C150&ssl=1 150w, https://i2.wp.com/giustino.blog/wp-content/uploads/2015/02/me.jpeg?resize=300%2C300&ssl=1 300w, https://i2.wp.com/giustino.blog/wp-content/uploads/2015/02/me.jpeg?w=400&ssl=1 400w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" /><figcaption>That&#8217;s me!</figcaption></figure>
+  <figure class="alignleft"><img src="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2015/02/me-150x150.jpeg?resize=150%2C150" alt="Giustino Borzacchiello" class="wp-image-1084" srcset="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2015/02/me.jpeg?resize=150%2C150&ssl=1 150w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2015/02/me.jpeg?resize=300%2C300&ssl=1 300w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2015/02/me.jpeg?w=400&ssl=1 400w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" /><figcaption>That&#8217;s me!</figcaption></figure>
 </div>
 
-Hello, I&#8217;m Giustino Borzacchiello. I am a <s>PHP developer</s> <s>Team Leader</s> <s>Engineering Manager</s> Entrepreneur and I live in <del>Naples</del> <s>Milan</s> Monza. 
+Hello, I&#8217;m Giustino Borzacchiello. I am a <s>PHP developer</s> <s>Team Leader</s> <s>Engineering Manager</s> Entrepreneur and I live in <del>Naples</del> <s>Acireale</s> <s>Milan</s> <s>Monza</s> Turin. 
 
 In this blog, I write about the things I learn, mainly about <s>[WordPress][1], PHP, JavaScript</s>, Indie Making, Product Design, Entrepreneurship, Software Engineering in general. 
 

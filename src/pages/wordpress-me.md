@@ -11,7 +11,7 @@ classic-editor-remember:
 ## WordPress & me
 
 <div class="wp-block-image">
-  <figure class="alignleft"><a href="https://i1.wp.com/giustino.blog/wp-content/uploads/2015/02/wordpress-old-admin-screen.jpg"><img src="https://i1.wp.com/giustino.blog/wp-content/uploads/2015/02/wordpress-old-admin-screen-300x191.jpg?resize=300%2C191" alt="wordpress-old-admin-screen" class="wp-image-1124" srcset="https://i1.wp.com/giustino.blog/wp-content/uploads/2015/02/wordpress-old-admin-screen.jpg?resize=300%2C191&ssl=1 300w, https://i1.wp.com/giustino.blog/wp-content/uploads/2015/02/wordpress-old-admin-screen.jpg?w=1008&ssl=1 1008w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a></figure>
+  <figure class="alignleft"><a href="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2015/02/wordpress-old-admin-screen.jpg"><img src="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2015/02/wordpress-old-admin-screen-300x191.jpg?resize=300%2C191" alt="wordpress-old-admin-screen" class="wp-image-1124" srcset="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2015/02/wordpress-old-admin-screen.jpg?resize=300%2C191&ssl=1 300w, https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2015/02/wordpress-old-admin-screen.jpg?w=1008&ssl=1 1008w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a></figure>
 </div>
 
 I don&#8217;t remember the very first time I chose WordPress. As a reference, this was the Edit Post screen at that time.

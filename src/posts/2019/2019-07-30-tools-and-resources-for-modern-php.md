@@ -117,7 +117,7 @@ An absolute must-read.
 ### Dependency management via Composer {#dependency-management-via-composer}
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://i2.wp.com/giustino.blog/wp-content/uploads/2019/07/logo-composer.png?w=1100&#038;ssl=1" alt="Composer logo" data-recalc-dims="1" /><figcaption>Composer logo</figcaption></figure>
+  <figure class="aligncenter"><img src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2019/07/logo-composer.png?w=1100&#038;ssl=1" alt="Composer logo" data-recalc-dims="1" /><figcaption>Composer logo</figcaption></figure>
 </div>
 
 I can say without exaggeration that Composer is one of the best things happened to PHP. I always found PEAR confusing to use, while Composer is immediate and ubiquitous.
@@ -134,7 +134,7 @@ Some great reads about this topic:
 ### Modern PHP {#modern-php}
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://i0.wp.com/giustino.blog/wp-content/uploads/2019/07/modern-php-cover.jpg?w=1100&#038;ssl=1" alt="Modern PHP book cover" data-recalc-dims="1" /><figcaption>Modern PHP book cover</figcaption></figure>
+  <figure class="aligncenter"><img src="https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2019/07/modern-php-cover.jpg?w=1100&#038;ssl=1" alt="Modern PHP book cover" data-recalc-dims="1" /><figcaption>Modern PHP book cover</figcaption></figure>
 </div>
 
 Even if [this book][10] by [Josh Lockhart][11] is a bit old, it does a great job at explaining “new” features introduced in PHP and other best practices. It’s a great complement to PHP: The Right Way.
@@ -145,7 +145,7 @@ The one thing I missed from my times as a Python developer was the iPython REPL.
 
 It’s simply the best REPL for PHP, and its `doc` feature gives me the ability to check the PHPdoc without leaving the terminal every time.<figure class="wp-block-image">
 
-<img src="https://i1.wp.com/giustino.blog/wp-content/uploads/2019/07/psysh-doc-command.png?w=1100&#038;ssl=1" alt="The doc command for array_map" data-recalc-dims="1" /> <figcaption>The doc command for array_map</figcaption></figure> 
+<img src="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2019/07/psysh-doc-command.png?w=1100&#038;ssl=1" alt="The doc command for array_map" data-recalc-dims="1" /> <figcaption>The doc command for array_map</figcaption></figure> 
 
 ### Testing {#testing}
 
@@ -162,7 +162,7 @@ Then, if you want to learn more about testing in general and TDD, these are my t
 ### Modernizing Legacy Applications In PHP {#modernizing-legacy-applications-in-php}
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://i2.wp.com/giustino.blog/wp-content/uploads/2019/07/modernizing-legacy-applications-php-book-cover.png?w=1100&#038;ssl=1" alt="Modernizing Legacy applications with PHP book cover" data-recalc-dims="1" /><figcaption>Modernizing Legacy applications with PHP book cover</figcaption></figure>
+  <figure class="aligncenter"><img src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2019/07/modernizing-legacy-applications-php-book-cover.png?w=1100&#038;ssl=1" alt="Modernizing Legacy applications with PHP book cover" data-recalc-dims="1" /><figcaption>Modernizing Legacy applications with PHP book cover</figcaption></figure>
 </div>
 
 We’ve all been there. During the interview, you’re sold futuristic technology and once you’re at your new job, you’re faced with a big, leaking bull of mud. And you just want to run away.

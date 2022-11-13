@@ -1,7 +1,7 @@
 ---
 title: How to create drafts in Eleventy
 type: post
-date: 2020-09-27
+date: 2020-01-04
 permalink: /how-to-drafts-eleventy/
 ---
 

@@ -23,7 +23,7 @@ Uno non ci pensa, ma il cassetto è uno spazio finito. E non ci si domanda: &#82
 Oggi ho aperto il mio e, sotto un cumulo di fogli&#8230;.
 
 <p style="text-align: center;">
-  <a href="https://i1.wp.com/giustino.blog/wp-content/uploads/2008/10/copertura.jpg"><img class="aligncenter size-medium wp-image-472" title="copertura" src="https://i2.wp.com/giustino.blog/wp-content/uploads/2008/10/copertura-300x225.jpg?resize=300%2C225" alt="" width="300" height="225" data-recalc-dims="1" /></a><a title="copertura" href="http://jubstuff.netsons.org/wp-content/copertura.jpg" target="_self"><br /> </a>
+  <a href="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2008/10/copertura.jpg"><img class="aligncenter size-medium wp-image-472" title="copertura" src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2008/10/copertura-300x225.jpg?resize=300%2C225" alt="" width="300" height="225" data-recalc-dims="1" /></a><a title="copertura" href="http://jubstuff.netsons.org/wp-content/copertura.jpg" target="_self"><br /> </a>
 </p>
 
 <p style="text-align: left;">
@@ -31,5 +31,5 @@ Oggi ho aperto il mio e, sotto un cumulo di fogli&#8230;.
 </p>
 
 <p style="text-align: center;">
-  <a href="https://i1.wp.com/giustino.blog/wp-content/uploads/2008/10/cassetto.jpg"><img class="aligncenter size-medium wp-image-471" title="cassetto" src="https://i1.wp.com/giustino.blog/wp-content/uploads/2008/10/cassetto-300x225.jpg?resize=300%2C225" alt="" width="300" height="225" data-recalc-dims="1" /></a>
+  <a href="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2008/10/cassetto.jpg"><img class="aligncenter size-medium wp-image-471" title="cassetto" src="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2008/10/cassetto-300x225.jpg?resize=300%2C225" alt="" width="300" height="225" data-recalc-dims="1" /></a>
 </p>

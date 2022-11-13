@@ -15,7 +15,7 @@ categories:
   - tipografia
 
 ---
-[<img class="aligncenter size-medium wp-image-494" title="contrast1280x800" src="https://i1.wp.com/giustino.blog/wp-content/uploads/2009/11/contrast1280x8001-300x187.png?resize=300%2C187" alt="" width="300" height="187" data-recalc-dims="1" />][1]
+[<img class="aligncenter size-medium wp-image-494" title="contrast1280x800" src="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2009/11/contrast1280x8001-300x187.png?resize=300%2C187" alt="" width="300" height="187" data-recalc-dims="1" />][1]
 
 Ultimamente sto leggendo un sacco di libri interessanti sulla tipografia, e sto ampliando le mie conoscenze su questo affascinante argomento. Devo dire che in Italia è ancora molto sottovalutato, mentre il mondo intero del web design freme per l&#8217;introduzione del supporto a `@font-face` da parte dei maggiori browser.
 
@@ -33,7 +33,7 @@ Puoi scaricarla nella dimensione che più si adatta al tuo monitor:
 
 Sperando di fare cosa gradita 🙂
 
- [1]: https://i2.wp.com/giustino.blog/wp-content/uploads/2009/11/contrast1280x8001.png
+ [1]: https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2009/11/contrast1280x8001.png
  [2]: http://jubstuff.netsons.org/works/contrast/contrast1280x800.png
  [3]: http://jubstuff.netsons.org/works/contrast/contrast1440x900.png
  [4]: http://jubstuff.netsons.org/works/contrast/contrast1680x1050.png

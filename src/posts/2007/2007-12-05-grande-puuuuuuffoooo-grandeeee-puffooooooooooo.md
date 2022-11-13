@@ -33,4 +33,4 @@ Non mi ricordo in quale film uno dei personaggi faceva un pensiero sui super-ero
 
 Vabbè pensieri a parte, questo è il mio primo post a quatt&#8217;occhi 🙂 però devo dire che ci vedo veramente bene&#8230;&#8221;che è meglio!&#8221;
 
-<img src="https://i2.wp.com/giustino.blog/wp-content/uploads/2007/12/quattrocchi.gif?w=1100" alt="quattrocchi" data-recalc-dims="1" />
+<img src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2007/12/quattrocchi.gif?w=1100" alt="quattrocchi" data-recalc-dims="1" />

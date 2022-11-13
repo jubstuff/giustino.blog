@@ -3,7 +3,8 @@ title: How to excel as a developer, designer, marketer (or anything else)
 author: Giustino Borzacchiello
 featured: true
 type: post
-date: 2019-01-27T14:38:37+00:00
+date: 2022-01-27T14:38:37+00:00
+originaldate: 2019-01-27T14:38:37+00:00
 permalink: /how-to-excel-as-a-developer/
 featured_image: /wp-content/uploads/2019/07/6jyoil2ghvk-740x430.jpg
 classic-editor-remember:
@@ -20,7 +21,7 @@ categories:
 
 I have always been very curious and since I can remember I was interested to know how to learn better.
 
-## Why should we improve ourselves
+## Why should we improve ourselves {#why-should-we-improve-ourselves}
 
 Obviously, the first question that we have to ask ourselves when we begin a new path should be “Why should I do it?”.
 
@@ -48,10 +49,10 @@ Many people, especially among employees, brag something like “My working hours
 
 Freelancers on the other side understand easily that training is a long term investment since they are the only asset in their individual company.
 
-## Practice and experiment deliberately
+## Practice and experiment deliberately {#practice-and-experiment-deliberately}
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://i2.wp.com/giustino.blog/wp-content/uploads/2019/01/antonio.gif?w=1100&#038;ssl=1" alt="" class="wp-image-2233" data-recalc-dims="1" /></figure>
+  <figure class="aligncenter"><img src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/antonio.gif?w=1100&#038;ssl=1" alt="" class="wp-image-2233" data-recalc-dims="1" /></figure>
 </div>
 
 OK, so whatever your motivation is, you want to improve in your field: what do you do? Where to start?
@@ -82,7 +83,7 @@ On the contrary, the deliberate practice requires close attention and is perform
 
 The biggest challenge to deliberate practice is to stay focused. In the beginning, it may be enough to just sit there and do the exercises, but after a while, the efforts must be targeted, otherwise one begins to ignore mistakes and neglect opportunities to improve.
 
-## What should I do? A practical plan to improve
+## What should I do? A practical plan to improve {#what-should-i-do-a-practical-plan-to-improve}
 
 If you are with me up to this point:
 
@@ -92,7 +93,7 @@ If you are with me up to this point:
 
 So you’ll be wondering: “Up to this point I could even get there by myself: what should I do?”
 
-### Study what you want to do and create a plan
+### Study what you want to do and create a plan {#study-what-you-want-to-do-and-create-a-plan}<figure class="wp-block-image">
 
 ![][1] <figcaption>  
 Photo by [Chelsea London Phillips][2] </figcaption></figure> 
@@ -109,9 +110,9 @@ Obviously, this can be difficult because you don’t know what you don’t know 
   * [Resources for designers][6]
   * [A roadmap for deep learning][7]
 
-### Capture all the ideas
+### Capture all the ideas {#capture-all-the-ideas}<figure class="wp-block-image">
 
-<img src="https://i0.wp.com/giustino.blog/wp-content/uploads/2019/01/photography-notebook.jpg?fit=840%2C630&ssl=1" alt="" class="wp-image-2235" srcset="https://i0.wp.com/giustino.blog/wp-content/uploads/2019/01/photography-notebook.jpg?w=1999&ssl=1 1999w, https://i0.wp.com/giustino.blog/wp-content/uploads/2019/01/photography-notebook.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/giustino.blog/wp-content/uploads/2019/01/photography-notebook.jpg?resize=1024%2C768&ssl=1 1024w, https://i0.wp.com/giustino.blog/wp-content/uploads/2019/01/photography-notebook.jpg?resize=1200%2C900&ssl=1 1200w" sizes="(max-width: 1100px) 100vw, 1100px" /> </figure> 
+<img src="https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/photography-notebook.jpg?fit=840%2C630&ssl=1" alt="" class="wp-image-2235" srcset="https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/photography-notebook.jpg?w=1999&ssl=1 1999w, https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/photography-notebook.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/photography-notebook.jpg?resize=1024%2C768&ssl=1 1024w, https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/photography-notebook.jpg?resize=1200%2C900&ssl=1 1200w" sizes="(max-width: 1100px) 100vw, 1100px" /> </figure> 
 
 
 
@@ -121,9 +122,9 @@ If you’re not into technology so much, you can also buy a small notebook along
 
 There was a period when I kept a notebook and a pen on the bedside table so I could write down the ideas that came to me if I ever woke up during the night.
 
-### Split each move into small parts, called chunksclass="wp-block-image">
+### Split each move into small parts, called chunks {#divide-each-move-into-small-parts-called-chunks}<figure class="wp-block-image">
 
-<img src="https://i1.wp.com/giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?fit=840%2C561&ssl=1" alt="" class="wp-image-2236" srcset="https://i1.wp.com/giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?w=5988&ssl=1 5988w, https://i1.wp.com/giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?resize=300%2C200&ssl=1 300w, https://i1.wp.com/giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?resize=1024%2C684&ssl=1 1024w, https://i1.wp.com/giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?resize=1200%2C802&ssl=1 1200w, https://i1.wp.com/giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?w=2200&ssl=1 2200w, https://i1.wp.com/giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?w=3300&ssl=1 3300w" sizes="(max-width: 1100px) 100vw, 1100px" /> </figure> 
+<img src="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?fit=840%2C561&ssl=1" alt="" class="wp-image-2236" srcset="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?w=5988&ssl=1 5988w, https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?resize=300%2C200&ssl=1 300w, https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?resize=1024%2C684&ssl=1 1024w, https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?resize=1200%2C802&ssl=1 1200w, https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?w=2200&ssl=1 2200w, https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/spliy-tasks-in-chunks.jpg?w=3300&ssl=1 3300w" sizes="(max-width: 1100px) 100vw, 1100px" /> </figure> 
 
 Whatever skills you want to learn, look at it in its entirety. Divide it into the simplest elements possible. Put them back together. Repeat.
 
@@ -133,18 +134,18 @@ Deliberate practice always follows the same model:
   2. identifying weaknesses in relation to these parts,
   3. testing and experimenting with new strategies for each section and then integrating learning into the global process.
 
-### Make mistakes voluntarily
+### Make mistakes voluntarily {#make-mistakes-voluntarily}<figure class="wp-block-image">
 
-<img src="https://i2.wp.com/giustino.blog/wp-content/uploads/2019/01/how-i-failed-but-i-got-better.png?w=1100&#038;ssl=1" alt="" class="wp-image-2237" srcset="https://i2.wp.com/giustino.blog/wp-content/uploads/2019/01/how-i-failed-but-i-got-better.png?w=873&ssl=1 873w, https://i2.wp.com/giustino.blog/wp-content/uploads/2019/01/how-i-failed-but-i-got-better.png?resize=300%2C289&ssl=1 300w" sizes="(max-width: 873px) 100vw, 873px" data-recalc-dims="1" /> </figure> 
+<img src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/how-i-failed-but-i-got-better.png?w=1100&#038;ssl=1" alt="" class="wp-image-2237" srcset="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/how-i-failed-but-i-got-better.png?w=873&ssl=1 873w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/how-i-failed-but-i-got-better.png?resize=300%2C289&ssl=1 300w" sizes="(max-width: 873px) 100vw, 873px" data-recalc-dims="1" /> </figure> 
 
 
 
 Learning always takes place at the limit of our capacities. This means that if we never make mistakes, we are playing too much on the safe side. Be willing to be goofy.
 
-### Teach (also to yourself)
+### Teach (also to yourself) {#teach-also-to-yourself}
 
 <div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img src="https://i0.wp.com/giustino.blog/wp-content/uploads/2019/01/richard-feynman.png?fit=840%2C840&ssl=1" alt="" class="wp-image-2238" width="424" height="424" srcset="https://i2.wp.com/giustino.blog/wp-content/uploads/2019/01/richard-feynman.png?w=1038&ssl=1 1038w, https://i2.wp.com/giustino.blog/wp-content/uploads/2019/01/richard-feynman.png?resize=150%2C150&ssl=1 150w, https://i2.wp.com/giustino.blog/wp-content/uploads/2019/01/richard-feynman.png?resize=300%2C300&ssl=1 300w, https://i2.wp.com/giustino.blog/wp-content/uploads/2019/01/richard-feynman.png?resize=1024%2C1024&ssl=1 1024w" sizes="(max-width: 424px) 100vw, 424px" /><figcaption><a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a></figcaption></figure>
+  <figure class="aligncenter is-resized"><img src="https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/richard-feynman.png?fit=840%2C840&ssl=1" alt="" class="wp-image-2238" width="424" height="424" srcset="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/richard-feynman.png?w=1038&ssl=1 1038w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/richard-feynman.png?resize=150%2C150&ssl=1 150w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/richard-feynman.png?resize=300%2C300&ssl=1 300w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/richard-feynman.png?resize=1024%2C1024&ssl=1 1024w" sizes="(max-width: 424px) 100vw, 424px" /><figcaption><a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a></figcaption></figure>
 </div>
 
 Teaching is one of the best ways to learn because it forces you to reorganize all the notions in a flow and eliminate all the frills, without using specific jargon.
@@ -156,9 +157,9 @@ There is a learning technique called [Feynman technique][8] which involves 4 ste
   3. Reread and study all the steps you have noted, improving the explanation
   4. Re-read again, removing any technical terminology from the explanation, simplifying as much as possible.
 
-### Steal
+### Steal {#steal}<figure class="wp-block-image">
 
-<img src="https://i2.wp.com/giustino.blog/wp-content/uploads/2019/01/steal-ideas.jpg?fit=682%2C1024&ssl=1" alt="" class="wp-image-2239" srcset="https://i1.wp.com/giustino.blog/wp-content/uploads/2019/01/steal-ideas.jpg?w=1066&ssl=1 1066w, https://i1.wp.com/giustino.blog/wp-content/uploads/2019/01/steal-ideas.jpg?resize=200%2C300&ssl=1 200w, https://i1.wp.com/giustino.blog/wp-content/uploads/2019/01/steal-ideas.jpg?resize=682%2C1024&ssl=1 682w" sizes="(max-width: 1066px) 100vw, 1066px" /> </figure> 
+<img src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/steal-ideas.jpg?fit=682%2C1024&ssl=1" alt="" class="wp-image-2239" srcset="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/steal-ideas.jpg?w=1066&ssl=1 1066w, https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/steal-ideas.jpg?resize=200%2C300&ssl=1 200w, https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2019/01/steal-ideas.jpg?resize=682%2C1024&ssl=1 682w" sizes="(max-width: 1066px) 100vw, 1066px" /> </figure> 
 
 History can teach you what to do: go and see what the great ones who preceded you did, and copy them.
 
@@ -171,23 +172,23 @@ Make a list of people you admire in your field and write two or three lines abou
   * [Computer Science Pioneers][12]
   * [List of Graphic Designers][13]
 
-### Practice: quality, not time
+### Practice: quality, not time {#practice-quality-not-time}
 
 Some years ago I started studying piano alone. I had given myself 20 minutes a day when I would have to play. At the end of the 20 minutes, I stopped, even though I was in the middle of an exercise. Here it is. _This is the wrong way to practice_.
 
 It is better to **identify what makes a correctly performed exercise** and try to make 5 perfect repetitions.
 
-### Practice little and often
+### Practice little and often {#practice-little-and-often}
 
 Better 10 minutes a day, rather than an hour a week. This is because _(sorry for this simplification, neuroscientists :D)_ the connections of our brain “feed” on all stimuli and change even while we sleep.
 
 By practicing more often we support and improve this process.
 
-### Look for immediate feedback
+### Look for immediate feedback {#look-for-immediate-feedback}
 
 Immediate feedback is one of the fundamental parts when it comes to practice. At school, we are used to waiting even weeks for the results of an exam/task. Now we’re lucky enough to have direct access to tools that can provide immediate feedback.
 
-## Is Practice enough?
+## Is Practice enough? {#is-practice-enough}
 
 The question that arises at the end of this path is: is Deliberate Practice enough to improve in our craft?
 
@@ -201,11 +202,11 @@ Genes only provide an opportunity, but they do not determine destiny. It’s lik
 
 In other fields, like ours, the likelihood of your peers investing time in deliberate practice is very much less, and this leads to the fact that **if you invest a little of your time too, you can really make a difference**.
 
-## Additional resources
+## Additional resources {#additional-resources}
 
 These are a few resources that have helped me writing this post. If you’re interested in learning more about this topic, don’t miss them!
 
-## People
+## People {#people}
 
   * [Cal Newport][14]
   * [Richard Feynman][15]

@@ -2,7 +2,8 @@
 title: My highlights for “The Elements of User Experience”
 author: Giustino Borzacchiello
 type: post
-date: 2020-02-07T18:20:01+00:00
+date: 2022-02-07T18:20:01+00:00
+originaldate: 2020-02-07T18:20:01+00:00
 permalink: /highlights-elements-of-ux/
 featured_image: /wp-content/uploads/2020/02/the-elements-of-user-experience-poster-740x430.jpg
 classic-editor-remember:
@@ -12,7 +13,7 @@ categories:
 
 ---
 <div class="wp-block-image is-style-default">
-  <figure class="alignleft size-large"><img src="https://i0.wp.com/giustino.blog/wp-content/uploads/2020/02/the-elements-of-user-experience-cover.jpg?w=1100&#038;ssl=1" alt="" class="wp-image-2345" srcset="https://i0.wp.com/giustino.blog/wp-content/uploads/2020/02/the-elements-of-user-experience-cover.jpg?w=304&ssl=1 304w, https://i0.wp.com/giustino.blog/wp-content/uploads/2020/02/the-elements-of-user-experience-cover.jpg?resize=234%2C300&ssl=1 234w" sizes="(max-width: 304px) 100vw, 304px" data-recalc-dims="1" /></figure>
+  <figure class="alignleft size-large"><img src="https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2020/02/the-elements-of-user-experience-cover.jpg?w=1100&#038;ssl=1" alt="" class="wp-image-2345" srcset="https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2020/02/the-elements-of-user-experience-cover.jpg?w=304&ssl=1 304w, https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2020/02/the-elements-of-user-experience-cover.jpg?resize=234%2C300&ssl=1 234w" sizes="(max-width: 304px) 100vw, 304px" data-recalc-dims="1" /></figure>
 </div>
 
 Lately for a project I&#8217;m involved on (and about which I&#8217;ll talk in a later post) I&#8217;m studying and reading a lot about User Experience. 
@@ -50,7 +51,7 @@ I think this applies to almost every creative effort: think about who are you cr
 </blockquote>
 
 <div class="wp-block-image">
-  <figure class="aligncenter size-large"><img src="https://i0.wp.com/giustino.blog/wp-content/uploads/2020/02/the-five-planes-ux.png?w=1100&#038;ssl=1" alt="" class="wp-image-2346" srcset="https://i0.wp.com/giustino.blog/wp-content/uploads/2020/02/the-five-planes-ux.png?w=426&ssl=1 426w, https://i0.wp.com/giustino.blog/wp-content/uploads/2020/02/the-five-planes-ux.png?resize=221%2C300&ssl=1 221w" sizes="(max-width: 426px) 100vw, 426px" data-recalc-dims="1" /></figure>
+  <figure class="aligncenter size-large"><img src="https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2020/02/the-five-planes-ux.png?w=1100&#038;ssl=1" alt="" class="wp-image-2346" srcset="https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2020/02/the-five-planes-ux.png?w=426&ssl=1 426w, https://i0.wp.com/v1.giustino.blog/wp-content/uploads/2020/02/the-five-planes-ux.png?resize=221%2C300&ssl=1 221w" sizes="(max-width: 426px) 100vw, 426px" data-recalc-dims="1" /></figure>
 </div>
 
 ## Vision & Open mind

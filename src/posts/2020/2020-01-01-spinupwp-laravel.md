@@ -1,7 +1,7 @@
 ---
 title: Deploy Laravel with SpinupWP
 type: post
-date: 2021-05-09
+date: 2020-01-01
 permalink: /deploy-laravel-spinupwp/
 ---
 

@@ -2,12 +2,14 @@
 title: What I'm doing now
 author: Giustino Borzacchiello
 type: page
-date: 2022-11-11
+date: Last Modified
 permalink: /now/
 layout: base.njk
 ---
 
 <h1>{{title}}</h1>
+
+_Last modified on {{page.date | readableDateTime}}_
 
 ## Donux
 
@@ -17,4 +19,4 @@ Trying to understand how to generate a sane amount of interesting leads
 
 ## Health
 
-Trying to survive. Sick since 5 weeks, due to infinite viruses catched from my son school.
+Trying to survive. Sick since 5 weeks, due to infinite viruses catched from my son's school.

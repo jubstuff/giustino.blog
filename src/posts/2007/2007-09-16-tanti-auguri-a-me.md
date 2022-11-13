@@ -22,7 +22,7 @@ Eh eh eh !! Il mio amore mi ha preparato una torta bellissima e buonissima!! Non
 Per il momento accontentatevi di questa:
 
 <p align="left">
-  <img src="https://i2.wp.com/giustino.blog/wp-content/uploads/2007/09/853370_flaming_cake.jpg?w=1100" alt="torta" data-recalc-dims="1" />
+  <img src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2007/09/853370_flaming_cake.jpg?w=1100" alt="torta" data-recalc-dims="1" />
 </p>
 
 <p style="text-align: left;" align="left">

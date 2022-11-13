@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://giustino.blog/wp-content/uploads/2008/06/lawyer.png"><br /> </a><a href="https://i2.wp.com/giustino.blog/wp-content/uploads/2008/06/lawyer.png"><img class="aligncenter size-full wp-image-462" title="lawyer" src="https://i2.wp.com/giustino.blog/wp-content/uploads/2008/06/lawyer.png?resize=298%2C61" alt="" width="298" height="61" data-recalc-dims="1" /></a>
+  <a href="http://giustino.blog/wp-content/uploads/2008/06/lawyer.png"><br /> </a><a href="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2008/06/lawyer.png"><img class="aligncenter size-full wp-image-462" title="lawyer" src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2008/06/lawyer.png?resize=298%2C61" alt="" width="298" height="61" data-recalc-dims="1" /></a>
 </p>
 
 Quando si dice: non provarci nemmeno!!

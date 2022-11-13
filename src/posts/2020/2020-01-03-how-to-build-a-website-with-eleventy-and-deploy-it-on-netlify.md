@@ -2,7 +2,7 @@
 title: How to build a website with Eleventy and deploy it on Netlify
 author: Giustino Borzacchiello
 type: post
-date: 2020-07-28T19:50:57+00:00
+date: 2020-01-03
 permalink: /how-to-build-a-website-with-eleventy-and-deploy-it-on-netlify/
 classic-editor-remember:
   - block-editor

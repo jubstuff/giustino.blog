@@ -1,12 +1,12 @@
 const dayjs = require("dayjs");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+// const pluginRss = require("@11ty/eleventy-plugin-rss");
 const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(pluginRss);
+  // eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(sitemap, {
     sitemap: {
@@ -16,6 +16,10 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return dayjs(dateObj).format("YYYY-MM-DD");
+  });
+
+  eleventyConfig.addFilter("readableDateTime", (dateObj) => {
+    return dayjs(dateObj).format("YYYY-MM-DD HH:mm");
   });
 
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {

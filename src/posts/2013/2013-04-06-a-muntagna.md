@@ -15,6 +15,6 @@ categories:
   - Sicilia
 
 ---
-[<img title="etna" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="etna" src="https://i2.wp.com/giustino.blog/wp-content/uploads/2013/04/etna_thumb1.jpg?resize=569%2C136" width="569" height="136"  data-recalc-dims="1" />][1]
+[<img title="etna" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="etna" src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2013/04/etna_thumb1.jpg?resize=569%2C136" width="569" height="136"  data-recalc-dims="1" />][1]
 
- [1]: https://i2.wp.com/giustino.blog/wp-content/uploads/2013/04/etna1.jpg
+ [1]: https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2013/04/etna1.jpg

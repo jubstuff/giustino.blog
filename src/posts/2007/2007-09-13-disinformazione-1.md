@@ -31,7 +31,7 @@ La prima ([notizia][1])
 Primo appunto: la notizia è riportata sotto la sezione &#8220;POLITICA&#8221;!!! Siiiiii! Politica, quella in cui si discute, si parla, quella che dovrebbe regolamentare un Paese e renderlo civile attraverso un sistema di leggi. Ma ormai in Italia si confonde sempre con le &#8220;cazzimmate dei criaturi&#8221;! Ma io già me lo immagino a Calderoli che fa &#8220;muahuhauahua! ti ci metto il maiale cosi non ti fai la moschea!&#8221; e fa il gesto dell&#8217;ombrello.
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="https://i1.wp.com/giustino.blog/wp-content/uploads/2007/09/maiale.jpg?resize=400%2C280" alt="Calderoli-maiale" width="400" height="280" data-recalc-dims="1" />
+  <img class="aligncenter" src="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2007/09/maiale.jpg?resize=400%2C280" alt="Calderoli-maiale" width="400" height="280" data-recalc-dims="1" />
 </p>
 
 Secondo Appunto: CALDEROLI SI E&#8217; SCOPERTO!! Finalmente abbiamo capito da dove provengono il suo aspetto e le sue facoltà intellettive!! HAHAHA e poi vi immaginate i musulmani che lo sfottono e fanno

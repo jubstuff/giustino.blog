@@ -18,7 +18,7 @@ L&#8217;autore, [Matt Thompson][2] lo pubblicizza come un metodo per avere un ra
 <!--more-->
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-303 aligncenter" title="chromahash example" src="https://i2.wp.com/giustino.blog/wp-content/uploads/2009/11/chromahash.png?w=1100" alt="Esempio di utilizzo di chroma hash, plugin di jQuery" data-recalc-dims="1" />
+  <img class="size-full wp-image-303 aligncenter" title="chromahash example" src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2009/11/chromahash.png?w=1100" alt="Esempio di utilizzo di chroma hash, plugin di jQuery" data-recalc-dims="1" />
 </p>
 
 Aldilà delle discussioni sulla sicurezza di questo metodo (c&#8217;è una correlazione password->colori) mi chiedo: **ha un&#8217;utilità?** Non è più utile un semplice rettangolo colorato, rosso se le password non corrispondono, verde altrimenti? Forse ha ragione [@vincenzodb][3], è solo un esercizio di stile.

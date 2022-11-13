@@ -18,6 +18,6 @@ Fa parecchio freddo stasera&#8230;sto per andare a fiondarmi a letto, visto che 
 
 Sto leggendo un bel libro: &#8220;Progettare siti web standard&#8221; di Jeffrey Zeldman, uno dei padri dei web standard. Interessantissimo e consigliato a chiunque voglia avventurarsi nel fantastico mondo del web! Appena lo finisco magari scrivo anche un appunto veloce qui a mo&#8217; di recensione.
 
-<img src="https://i2.wp.com/giustino.blog/wp-content/uploads/2007/11/zeldman.jpg?w=1100" alt="zeldman" data-recalc-dims="1" /> 
+<img src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2007/11/zeldman.jpg?w=1100" alt="zeldman" data-recalc-dims="1" /> 
 
 Ora vado a nanna! Buonanotte a tutti!

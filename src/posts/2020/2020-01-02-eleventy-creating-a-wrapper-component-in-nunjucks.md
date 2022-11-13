@@ -2,7 +2,7 @@
 title: 'Eleventy: React/Vue-like components in nunjucks with macros'
 author: Giustino Borzacchiello
 type: post
-date: 2020-06-04T20:39:17+00:00
+date: 2020-01-02
 permalink: /eleventy-creating-a-wrapper-component-in-nunjucks/
 classic-editor-remember:
   - block-editor

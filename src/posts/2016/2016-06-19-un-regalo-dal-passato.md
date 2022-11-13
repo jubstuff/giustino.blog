@@ -14,7 +14,7 @@ _(Sorry English friends, this post is in Italian 🙂 )_
 
 Oggi stavo mettendo ordine tra le mie cose, quando è spuntato fuori questo foglio, macchiato e strappato:
 
-[<img class="aligncenter size-full wp-image-1470" src="https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/intro_commedia_tetillo.jpg?resize=1100%2C1958" alt="intro_commedia_tetillo" width="1100" height="1958" srcset="https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/intro_commedia_tetillo.jpg?w=1685&ssl=1 1685w, https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/intro_commedia_tetillo.jpg?resize=169%2C300&ssl=1 169w, https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/intro_commedia_tetillo.jpg?resize=575%2C1024&ssl=1 575w, https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/intro_commedia_tetillo.jpg?resize=1200%2C2136&ssl=1 1200w" sizes="(max-width: 1100px) 100vw, 1100px" data-recalc-dims="1" />][1]
+[<img class="aligncenter size-full wp-image-1470" src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/intro_commedia_tetillo.jpg?resize=1100%2C1958" alt="intro_commedia_tetillo" width="1100" height="1958" srcset="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/intro_commedia_tetillo.jpg?w=1685&ssl=1 1685w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/intro_commedia_tetillo.jpg?resize=169%2C300&ssl=1 169w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/intro_commedia_tetillo.jpg?resize=575%2C1024&ssl=1 575w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/intro_commedia_tetillo.jpg?resize=1200%2C2136&ssl=1 1200w" sizes="(max-width: 1100px) 100vw, 1100px" data-recalc-dims="1" />][1]
 
 È la bozza dell&#8217;apertura di una commedia organizzata al quarto anno del liceo. Questo il testo (la mia grafia è sempre stata semi-illeggibile):
 
@@ -46,7 +46,7 @@ Ma alla fine, siamo riusciti a fare la commedia. A ripensarci adesso, a distanza
 
 Per una volta posso guardare al me stesso del passato e imparare qualcosa che avevo dimenticato.
 
-[<img class="aligncenter size-full wp-image-1476" src="https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/finale.jpg?resize=1100%2C792" alt="Finale commedia 2004" width="1100" height="792" srcset="https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/finale.jpg?w=2687&ssl=1 2687w, https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/finale.jpg?resize=300%2C216&ssl=1 300w, https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/finale.jpg?resize=1024%2C737&ssl=1 1024w, https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/finale.jpg?resize=1200%2C864&ssl=1 1200w, https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/finale.jpg?w=2200&ssl=1 2200w" sizes="(max-width: 1100px) 100vw, 1100px" data-recalc-dims="1" />][2]
+[<img class="aligncenter size-full wp-image-1476" src="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/finale.jpg?resize=1100%2C792" alt="Finale commedia 2004" width="1100" height="792" srcset="https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/finale.jpg?w=2687&ssl=1 2687w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/finale.jpg?resize=300%2C216&ssl=1 300w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/finale.jpg?resize=1024%2C737&ssl=1 1024w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/finale.jpg?resize=1200%2C864&ssl=1 1200w, https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/finale.jpg?w=2200&ssl=1 2200w" sizes="(max-width: 1100px) 100vw, 1100px" data-recalc-dims="1" />][2]
 
- [1]: https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/intro_commedia_tetillo.jpg
- [2]: https://i2.wp.com/giustino.blog/wp-content/uploads/2016/06/finale.jpg
+ [1]: https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/intro_commedia_tetillo.jpg
+ [2]: https://i2.wp.com/v1.giustino.blog/wp-content/uploads/2016/06/finale.jpg

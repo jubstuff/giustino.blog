@@ -16,7 +16,7 @@ categories:
 
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" src="https://i1.wp.com/giustino.blog/wp-content/uploads/2007/09/gvswp.png?resize=140%2C70" alt="Google contro WordPress" width="140" height="70" data-recalc-dims="1" />
+  <img class="aligncenter" src="https://i1.wp.com/v1.giustino.blog/wp-content/uploads/2007/09/gvswp.png?resize=140%2C70" alt="Google contro WordPress" width="140" height="70" data-recalc-dims="1" />
 </p>
 
 <p align="left">
